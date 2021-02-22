@@ -1,4 +1,4 @@
-# hw16 API + swagger documentation
+API + swagger documentation
 
 ## Framework
 Для создания API использовался Laravel 8.11.2 + Passport
